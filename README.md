@@ -6,3 +6,5 @@ Heyo! 👋
 - 📫 How to reach me: 
 - E-mail: jjjapla@gmail.com
 - Discord: JJJapla#2181
+
+< This is not my personal account >
