@@ -1,9 +1,9 @@
 Heyo! 👋
-- I'm Japla and I'm Salwyrr Direction Manager at Salwyrr International & Brazil!
-- ✔️ I'm a webdev, working currently with CSS (+html), PHP, JS, jQuerry, etc
-- 🌱 I’m currently learning DART and improving JS (starting JAVA soon)
+- ✅ I'm a webdev, working currently with CSS (+html), PHP, JS, jQuerry, etc
+- ✅ Languages C, phyton.
+- ⏳ I’m currently learning DART (starting JAVA soon)
 
-- 📫 How to reach me: 
+- 🔎 Want something?
 - E-mail: jjjapla@gmail.com
 - Discord: JJJapla#2181
 
