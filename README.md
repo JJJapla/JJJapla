@@ -1,6 +1,5 @@
-Heyo! 👋
-- ✅ I'm a webdev, working currently with CSS (+html), PHP, JS, jQuerry, etc.
-- ✅ Languages C, phyton.
+- ✅ CSS (+html), PHP, JS, jQuerry, SQL, etc.
+- ✅ C, C#, C++, phyton.
 - ⏳ I’m currently learning DART and JAVA.
 
 - 🔎 Want something?
